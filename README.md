@@ -1,2 +1,3 @@
-# Morseee
-simple morse code translator
+### **With ❤️ from [@RySec](https://github.com/brox90)**
+
+# Thank You!!!
